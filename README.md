@@ -24,3 +24,15 @@ It will ease the burden of document analysis and understanding them. It will red
 2. OpenCV
 3. PyTesseract
 4. Flask
+
+## Input Image
+![image](https://user-images.githubusercontent.com/50231750/201101159-820c11f4-389b-4098-994c-f17b742833bf.png)
+
+## Input Text
+BOLD
+
+## Output
+![image](https://user-images.githubusercontent.com/50231750/201101645-14a4c738-4a1b-4177-a84d-191263a3b677.png)
+
+## Conclusion
+We started with learning how to install tesseract which is the used for text extraction. Next we took an image and extracted the text from that image. We learned that we need to use certain image transformation function of OpenCV in order to extract text from complex images.
