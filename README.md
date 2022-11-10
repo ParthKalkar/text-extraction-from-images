@@ -2,6 +2,10 @@
 In this project, we will be working on extracting text from images. After extracting the text we will apply some basic function of `openCV` on that text to enhance it and to get more accurate results. 
 
 This project will be very useful as it will save time and effort of typing from an image.
+## Scope
+DIfferent organizations can use this to extract useful information from the image and store it. Individuals can use it for saving their time and effort for typing. 
+
+It will ease the burden of document analysis and understanding them. It will reduce man work and revolutionize the system by automating the OCR method for text extraction. 
 
 ## Steps
 1. Downloading Tesseract and install it with other dependencies. 
